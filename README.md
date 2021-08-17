@@ -1,4 +1,4 @@
-<h2 align="center"><b>코디 신생아 오승석입니다</b></h3>
+<h2 align="center"><b>코딩 신생아 오승석입니다</b></h3>
 
 <h3 align="center"><b>🛠 그나마 할줄 아는 것들 🛠</b></h3>
 </br>
