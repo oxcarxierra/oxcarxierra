@@ -8,17 +8,21 @@ _🇰🇷🇺🇸 KATUSA ~ 26 June 2023_
 	
 <p>Blog : https://oxcarxierra.github.io/</p>
 <br/>
-<h3><b>Tech Stacks 🛠</b></h3>
-<h4><b>Languages</b></h4>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp 
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> &nbsp
 
-<h4><b>Frameworks</b></h4>
+<h3><b>Tech Stack 🛠</b></h3>
+	
 <p align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp 
 	<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp 
-	<img src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp 
+	<img src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp 
 </p>
+<h4><b>Languages</b></h4>
+<p>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp 
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> &nbsp
+</p>
+
 
 <h4><b>Studying... 📚</b></h4>
 <p align="center">
