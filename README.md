@@ -17,7 +17,7 @@ _KATUSA ~ 26 June 2023_
 	<img src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp 
 </p>
 
-<h4><b>Studing... 📚</b></h4>
+<h4><b>Studying... 📚</b></h4>
 <p align="center">
 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a> &nbsp 
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> &nbsp 
