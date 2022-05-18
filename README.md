@@ -16,6 +16,8 @@ _🇰🇷🇺🇸 KATUSA ~ 26 June 2023_
 	<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp 
 	<img src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp 
+	<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white"/></a> &nbsp 
+
 </p>
 <h4><b>Languages</b></h4>
 <p>
