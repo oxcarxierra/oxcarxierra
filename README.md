@@ -37,5 +37,5 @@ _🇰🇷🇺🇸 KATUSA ~ 26 June 2023_
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OXcarXierra&show_icons=true&theme=graywhite)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oxcarxierra)](https://solved.ac/oxcarxierra)
 </div>
