@@ -30,12 +30,12 @@ _🇰🇷🇺🇸 KATUSA ~ 26 June 2023_
 <p align="center">
 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a> &nbsp 	
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
-	<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a> &nbsp 
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> &nbsp 
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a> &nbsp 
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a> &nbsp 
 
 </p>
 </br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OXcarXierra&show_icons=true&theme=graywhite)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oxcarxierra)](https://solved.ac/oxcarxierra)
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=OXcarXierra&theme=vue-dark&hide_border=true&border_radius=20&&count_private=true">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oxcarxierra">
+</p>
