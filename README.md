@@ -35,7 +35,6 @@ _🇰🇷🇺🇸 KATUSA ~ 26 June 2023_
 
 </p>
 </br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=OXcarXierra&theme=vue-dark&hide_border=true&border_radius=20&&count_private=true">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oxcarxierra">
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OXcarXierra&hide_border=true&theme=vue-dark)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oxcarxierra)](https://solved.ac/oxcarxierra)
