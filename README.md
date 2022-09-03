@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](<https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=150&text=oxcarxierra%20|%20오승석&desc=(개발자였던%20군인)&descAlignY=80&fontSize=50&descSize=15&animation=fadeIn>)
+![header](<https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=150&text=oxcarxierra%20|%20오승석&descAlignY=80&fontSize=50&descSize=15&animation=fadeIn>)
 
 _🏫 Dept. of Mechanical Engineering, Seoul National Univ._
 	
