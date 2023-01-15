@@ -4,8 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&backgroundColor=white)](https://www.linkedin.com/in/oh-seungseok-370746242/)
 
 🏫 Seoul Science High School 28th  
-🏫 Dept. of Mechanical Engineering, Seoul National Univ.  
-🇰🇷🇺🇸 KATUSA 27 Dec 2021 ~ 26 Jun 2023
+🏫 Dept. of Mechanical Engineering, Seoul National Univ.
+
+Serving in military as KATUSA 🇰🇷🇺🇸 (27 Dec 2021 ~ 26 Jun 2023)
 
 ## Stacks 📚
 
@@ -15,7 +16,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=react,materialui,django,mysql&theme=dark)
 
-![My Skills](https://skillicons.dev/icons?i=figma,github,ai,vscode&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=figma,ai,xd,vscode&theme=dark)
 
 <br />
 
