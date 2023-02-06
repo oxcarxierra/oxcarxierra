@@ -14,7 +14,7 @@ Serving in military as KATUSA 🇰🇷🇺🇸 (27 Dec 2021 ~ 26 Jun 2023)
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,py&theme=dark)
 
-![My Skills](https://skillicons.dev/icons?i=react,materialui,django,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,next,materialui,django,mysql&theme=dark)
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ai,xd,vscode&theme=dark)
 
