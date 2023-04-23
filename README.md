@@ -6,7 +6,7 @@
 🏫 Seoul Science High School 28th  
 🏫 Dept. of Mechanical Engineering, Seoul National Univ.
 
-Serving in military as KATUSA 🇰🇷🇺🇸 (27 Dec 2021 ~ 26 Jun 2023)
+Serving in ROK Army as KATUSA 🇰🇷🇺🇸 (27 Dec 2021 ~ 26 Jun 2023)
 
 ## Stacks 📚
 
