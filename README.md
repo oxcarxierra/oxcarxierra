@@ -1,11 +1,15 @@
 # 안녕하세요, 오승석입니다 👋
 
-[![Blog](https://img.shields.io/badge/GitHub%20Blog-222222?style=for-the-badge&logo=GitHub&logoColor=white)](https://oxcarxierra.github.io)
+[![Blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.oxcarxierra.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&backgroundColor=white)](https://www.linkedin.com/in/oh-seungseok-370746242/)
 
 🏫 Seoul Science High School 28th  
-🏫 Dept. of Mechanical Engineering, Seoul National Univ.
+🏫 Dept. of Mechanical Engineering, Seoul National Univ.  
+🤖 Sequor Robotics  
 
+Belive or not, I'm gonna make aircrafts one day.
+
+<!--
 ## Stacks 📚
 
 <br />
@@ -15,6 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=react,next,materialui,django,mysql&theme=dark)
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ai,xd,vscode&theme=dark)
+-->
 
 <br />
 
