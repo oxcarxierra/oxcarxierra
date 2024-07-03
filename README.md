@@ -9,23 +9,22 @@
 
 Belive it or not, I'm gonna make aircraft one day.
 
+## Skills
+
+<p />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+</p>
+
 <!--
-## Stacks 📚
-
-<br />
-
-![My Skills](https://skillicons.dev/icons?i=ts,js,py&theme=dark)
-
-![My Skills](https://skillicons.dev/icons?i=react,next,materialui,django,mysql&theme=dark)
-
-![My Skills](https://skillicons.dev/icons?i=figma,ai,xd,vscode&theme=dark)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOXcarXierra&count_bg=%23378DC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 -->
 
-<br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOXcarXierra&count_bg=%23378DC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- <img src="https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/dart-F7DF1E?style=for-the-badge&logo=dart&logoColor=black">
-<img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"> -->
