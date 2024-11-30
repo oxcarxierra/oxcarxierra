@@ -7,7 +7,7 @@
 🏫 Dept. of Mechanical Engineering, Seoul National Univ.  
 🤖 Sequor Robotics  
 
-Belive it or not, I'm gonna make aircraft one day.
+Believe it or not, I'm gonna make an aircraft one day.
 
 ## Skills
 
