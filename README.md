@@ -1,6 +1,6 @@
 # 안녕하세요, 오승석입니다 👋
 
-[![Blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.oxcarxierra.com)
+[![Blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.seungseokoh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&backgroundColor=white)](https://www.linkedin.com/in/seung-seok-oh-370746242/)
 
 🏫 Seoul Science High School 28th  
