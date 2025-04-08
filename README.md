@@ -5,7 +5,6 @@
 
 🏫 Seoul Science High School 28th  
 🏫 Dept. of Mechanical Engineering, Seoul National Univ.  
-🤖 Sequor Robotics  
 
 Believe it or not, I'm gonna make aircraft one day.
 
